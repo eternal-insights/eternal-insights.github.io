@@ -1,1 +1,0 @@
-# eternal-insights.github.io
