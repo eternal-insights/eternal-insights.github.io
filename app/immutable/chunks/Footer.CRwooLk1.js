@@ -1,4 +1,4 @@
-import{s as M,e as P,n as D}from"./scheduler.BDURF5cI.js";import{S as R,i as Y,e as n,b as E,s as q,c as o,d as p,f as j,h as F,r as G,g as f,q as r,j as B,k as e}from"./index.jDbZH82R.js";function H(m){let s,d,u,t,l,C,g,_,y,b,x,I,i,T=`<strong>Disclaimer</strong>
+import{s as M,e as P,n as D}from"./scheduler.BDURF5cI.js";import{S as R,i as Y,e as n,b as E,s as q,c as o,d as p,f as j,h as F,r as G,g as f,q as r,j as B,k as e}from"./index.D2Axirb-.js";function H(m){let s,d,u,t,l,C,g,_,y,b,x,I,i,T=`<strong>Disclaimer</strong>
 					The content on this website includes text that has been generated using AI tools, including
 					GPT (by OpenAI) and Recorder by Google. While every effort has been made to ensure the accuracy
 					and relevance of the information provided, the nature of AI-generated content means that it
